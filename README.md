@@ -35,3 +35,7 @@ cp cava-config ~/.config/cava/config
 ```
 
 <p>Install command with cargo</p>
+
+```bash
+cargo install bat exa lsd git-delta du-dust duf broot fd-find ripgrep bottom gping zoxide
+```
