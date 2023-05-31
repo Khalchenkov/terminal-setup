@@ -28,4 +28,9 @@ git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZS
 apt install fzf btop cava neofetch
 ```
 
+<p>Cava config</p>
+```bash
+cp cava-config ~/.config/cava/config
+```
+
 <p>Install command with cargo</p>
