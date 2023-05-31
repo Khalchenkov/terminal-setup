@@ -29,6 +29,7 @@ apt install fzf btop cava neofetch
 ```
 
 <p>Cava config</p>
+
 ```bash
 cp cava-config ~/.config/cava/config
 ```
