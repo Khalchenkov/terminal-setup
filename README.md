@@ -1,5 +1,5 @@
 # terminal
-<h2>Terminal Size: 112x34</h2>
+<h2>Terminal Size: 120x34</h2>
 
 <h2>Zsh plugin</h2>
 
