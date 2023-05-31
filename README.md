@@ -20,10 +20,10 @@ git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZS
 ```
 
 <h3>Command</h3>
-<p>FZF</p>
+<p>FZF, Btop</p>
 
 ```bash
-apt install fzf
+apt install fzf btop
 ```
 
 <p>Install command with cargo</p>
