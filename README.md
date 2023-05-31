@@ -1,5 +1,5 @@
 # terminal
-<p>Zsh plugin</p>
+<h2>Zsh plugin</h2>
 
 <p>autosuggesions plugin</p>
 
