@@ -1,4 +1,6 @@
 # terminal
+<h1>Terminal Size: 112x34</h1>
+
 <h2>Zsh plugin</h2>
 
 <p>autosuggesions plugin</p>
