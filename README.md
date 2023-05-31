@@ -22,10 +22,10 @@ git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZS
 ```
 
 <h3>Command</h3>
-<p>FZF, Btop</p>
+<p>FZF, Btop, Neofetch, Cava</p>
 
 ```bash
-apt install fzf btop
+apt install fzf btop cava neofetch
 ```
 
 <p>Install command with cargo</p>
