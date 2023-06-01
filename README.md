@@ -22,10 +22,17 @@ git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZS
 ```
 
 <h3>Command</h3>
-<p>FZF, Btop, Neofetch, Cava</p>
+<p>FZF, Btop, Neofetch, Cava, NPM</p>
 
 ```bash
-apt install fzf btop cava neofetch
+apt install fzf btop cava neofetch npm
+```
+
+<p>NPM command and python command</p>
+
+```bash
+sudo npm install -g live-server pyright
+pip install djhtml black
 ```
 
 <p>Cava config</p>
