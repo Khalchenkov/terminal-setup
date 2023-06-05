@@ -1,6 +1,13 @@
 # terminal
 <h2>Terminal Size: 120x34</h2>
 
+<h2>Oh-my-zsh</h2>
+
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+```
+
 <h2>Zsh plugin</h2>
 
 <p>autosuggesions plugin</p>
