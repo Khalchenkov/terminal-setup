@@ -122,6 +122,7 @@ alias rmdir='rm -vrf'
 alias rd='rm -vrf'
 alias apt='sudo nala'
 alias update='sudo nala update && sudo nala upgrade'
+alias clr='clear'
 
 # neofetch
 alias neofetch='neofetch --config ~/.config/neofetch/normal/config.conf'
