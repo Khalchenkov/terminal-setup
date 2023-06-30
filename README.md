@@ -45,6 +45,7 @@ pip install djhtml black
 <p>Cava config</p>
 
 ```bash
+md ~/.config/cava/config
 cp cava-config ~/.config/cava/config
 ```
 
