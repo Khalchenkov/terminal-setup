@@ -1,14 +1,14 @@
 # terminal
-<h2>Terminal Size: 120x34</h2>
+## Terminal Size: 120x34
 
-<h2>Oh-my-zsh</h2>
+## Oh-my-zsh
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 ```
 
-<h2>Zsh plugin</h2>
+## Zsh plugin
 
 <p>autosuggesions plugin</p>
 
@@ -28,7 +28,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete
 ```
 
-<h3>Command</h3>
+## Command
 <p>FZF, Btop, Neofetch, Cava, NPM</p>
 
 ```bash
