@@ -10,46 +10,46 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ## Zsh plugin
 
-<p>autosuggesions plugin</p>
+autosuggesions plugin
 
 ```bash
 git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
 
-<p>zsh-syntax-highlighting plugin</p>
+zsh-syntax-highlighting plugin
 
 ```bash
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 ```
 
-<p>zsh-autocomplete plugin</p>
+zsh-autocomplete plugin
 
 ```bash
 git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete
 ```
 
 ## Command
-<p>FZF, Btop, Neofetch, Cava, NPM</p>
+FZF, Btop, Neofetch, Cava, NPM
 
 ```bash
 apt install fzf btop cava neofetch npm
 ```
 
-<p>NPM command and python command</p>
+NPM command and python command
 
 ```bash
 sudo npm install -g live-server pyright
 pip install djhtml black
 ```
 
-<p>Cava config</p>
+Cava config
 
 ```bash
 md ~/.config/cava/config
 cp cava-config ~/.config/cava/config
 ```
 
-<p>Install command with cargo</p>
+Install command with cargo
 
 ```bash
 cargo install bat exa lsd git-delta du-dust duf broot fd-find ripgrep bottom gping zoxide
