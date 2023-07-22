@@ -130,6 +130,6 @@ alias neoagro='neofetch --config ~/.config/neofetch/normal/config.conf --ascii ~
 alias neosmall='neofetch --config ~/.config/neofetch/small/config.conf'
 neofetch
 
-export FZF_DEFAULT_OPTS='--color=fg:#f8f8f2,bg:#282a36,hl:#bd93f9 --color=fg+:#f8f8f2,bg+:#44475a,hl+:#bd93f9 --color=info:#ffb86c,prompt:#50fa7b,pointer:#ff79c6 --color=marker:#ff79c6,spinner:#ffb86c,header:#6272a4'
+export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS' --color=fg:#d0d0d0,hl:#9830ff --color=fg+:#d0d0d0,bg+:#1f0c29,hl+:#ff21a2 --color=info:#f1ae6d,prompt:#9830ff,pointer:#00b7ff --color=marker:#ff21a2,spinner:#f1ae6d,header:#6375a9'
 
 eval "$(zoxide init zsh)"
