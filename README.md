@@ -39,7 +39,7 @@ NPM command and python command
 
 ```bash
 sudo npm install -g live-server pyright
-pip install djhtml black
+pip install djhtml black mypy ruff
 ```
 
 Cava config
