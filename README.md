@@ -34,7 +34,7 @@ git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZS
 apt install fzf btop cava neofetch npm htop tmux nala mc curl git zsh
 ```
 
-NPM or Bun command and python command
+NPM or Bun and python command
 With npm:
 
 ```bash
@@ -49,7 +49,7 @@ bun add -g live-server pyright prettier
 pip install djhtml black mypy ruff
 ```
 
-Install command with cargo
+Cargo command
 
 ```bash
 cargo install bat exa lsd git-delta du-dust duf broot fd-find ripgrep bottom gping zoxide
