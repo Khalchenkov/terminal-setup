@@ -1,6 +1,16 @@
 # Terminal setup
 Gnome Terminal Size: 120x34
 
+### My other setup
+Neovim setup
+- [Neovim setup](https://github.com/Khalchenkov/neovim-config)
+Vim setup
+- [Vim setup](https://github.com/Khalchenkov/vim-config)
+Neofetch setup
+- [Neofetch setup](https://github.com/Khalchenkov/neofetch-config)
+Tmux setup
+- [Tmux setup](https://github.com/Khalchenkov/tmux-config)
+
 ## Oh-my-zsh
 
 [Oh-my-zsh site](https://ohmyz.sh/)
