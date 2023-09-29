@@ -3,7 +3,7 @@
 
 ## Oh-my-zsh
 
-[Oh-my-zsh](https://ohmyz.sh/)
+[Oh-my-zsh site](https://ohmyz.sh/)
 
 ## Zsh plugin
 
