@@ -1,5 +1,4 @@
 # Terminal setup
-Gnome Terminal Size: 120x34
 
 ### My other setup
 Neovim setup
@@ -13,6 +12,8 @@ Neofetch setup
 
 Tmux setup
 - [Tmux setup](https://github.com/Khalchenkov/tmux-config)
+
+### Gnome Terminal Size: 120x34
 
 ## Oh-my-zsh
 
