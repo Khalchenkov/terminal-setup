@@ -85,7 +85,7 @@ Bun:
 bun add -g live-server prettier
 ```
 
-### My other setup
+## My other setup
 Neovim setup
 - [Neovim setup](https://github.com/Khalchenkov/neovim-config)
 
