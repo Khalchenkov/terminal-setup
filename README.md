@@ -1,5 +1,5 @@
 # Terminal setup
-### Terminal Size: 120x34
+Terminal Size: 120x34
 
 ## Oh-my-zsh
 
