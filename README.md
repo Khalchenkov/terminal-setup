@@ -2,11 +2,7 @@
 ## Terminal Size: 120x34
 
 ## Oh-my-zsh
-
-```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
-```
+[Oh-my-zsh](https://ohmyz.sh/)
 
 ## Zsh plugin
 
