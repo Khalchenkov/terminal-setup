@@ -2,6 +2,7 @@
 ## Terminal Size: 120x34
 
 ## Oh-my-zsh
+
 [Oh-my-zsh](https://ohmyz.sh/)
 
 ## Zsh plugin
