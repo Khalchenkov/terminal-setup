@@ -35,18 +35,19 @@ FZF, Btop, Neofetch, Cava, NPM
 apt install fzf btop cava neofetch npm
 ```
 
-NPM command and python command
+NPM or Bun command and python command
+With npm:
 
 ```bash
 sudo npm install -g live-server pyright
 pip install djhtml black mypy ruff
 ```
 
-Cava config
+With bun:
 
 ```bash
-md ~/.config/cava/config
-cp cava-config ~/.config/cava/config
+bun add -g live-server pyright
+pip install djhtml black mypy ruff
 ```
 
 Install command with cargo
