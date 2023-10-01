@@ -74,8 +74,7 @@ Rust-analyzer:
 - [Rust-analyzer](https://rust-analyzer.github.io/)
 
 ### Web
-[Node.js site](https://nodejs.org/en)
-[Bun site](https://bun.sh/)
+[Node.js site](https://nodejs.org/en) and [Bun site](https://bun.sh/)
 
 Npm:
 
