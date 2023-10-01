@@ -39,6 +39,7 @@ cargo install bat exa lsd git-delta du-dust duf broot fd-find ripgrep bottom gpi
 ```
 
 ### My favorite theme for Midnight Commander is Dracula
+
 [Dracula theme for Midnight Commander](https://draculatheme.com/midnight-commander
 
 ## Programming Language
