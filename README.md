@@ -76,6 +76,10 @@ Rust-analyzer:
 ### Web
 [Node.js site](https://nodejs.org/en) and [Bun site](https://bun.sh/)
 
+Web tools:
+- [Prettier](https://prettier.io/)
+- [Live-server](https://www.npmjs.com/package/live-server)
+
 Npm:
 
 ```bash
