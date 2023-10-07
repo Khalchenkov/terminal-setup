@@ -3,7 +3,6 @@
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
-export EDITOR="/usr/bin/nvim"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -11,7 +10,8 @@ export EDITOR="/usr/bin/nvim"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 #ZSH_THEME="robbyrussell"
 
-ZSH_THEME_RANDOM_CANDIDATES=( cloud robbyrussell miloshadzic refined )
+# Random themes
+ZSH_THEME_RANDOM_CANDIDATES=( cloud robbyrussell )
 ZSH_THEME="random"
 
 # Set list of themes to pick from when loading at random
@@ -78,9 +78,6 @@ plugins=(git zsh-syntax-highlighting zsh-autosuggestions zsh-autocomplete)
 
 source $ZSH/oh-my-zsh.sh
 
-#export PATH=/home/ivan/.python3.11/bin:$PATH
-#alias python="python3.11"
-
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
@@ -109,6 +106,11 @@ source $ZSH/oh-my-zsh.sh
 
 export PATH="$HOME/.local/bin":$PATH
 
+# golang path
+export GOBIN="$HOME/.go/bin"
+export GOPATH="$HOME/.go/"
+export PATH="$HOME/.go/bin":$PATH
+
 # some more aliases
 alias l='lsd'
 alias ls='ls -CF'
@@ -130,6 +132,9 @@ alias neoagro='neofetch --config ~/.config/neofetch/normal/config.conf --ascii ~
 alias neosmall='neofetch --config ~/.config/neofetch/small/config.conf'
 neofetch
 
+# FZF
 export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS' --color=fg:#d0d0d0,hl:#9830ff --color=fg+:#d0d0d0,bg+:#1f0c29,hl+:#ff21a2 --color=info:#f1ae6d,prompt:#9830ff,pointer:#00b7ff --color=marker:#ff21a2,spinner:#f1ae6d,header:#6375a9'
 
+# zoxide
 eval "$(zoxide init zsh)"
+alias cd='z'
