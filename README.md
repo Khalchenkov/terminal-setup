@@ -60,6 +60,12 @@ Optional for django:
 ### Golang
 [Golang site](https://go.dev/)
 
+Golang path
+
+```bash
+mkdir -p ~/.go/bin
+```
+
 Gopls:
 - [Gopls](https://pkg.go.dev/golang.org/x/tools/gopls)
 
