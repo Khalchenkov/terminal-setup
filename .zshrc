@@ -138,3 +138,4 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS' --color=fg:#d0d0d0,hl:#9830ff --color
 # zoxide
 eval "$(zoxide init zsh)"
 alias cd='z'
+
