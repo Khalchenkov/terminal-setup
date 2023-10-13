@@ -35,7 +35,7 @@ apt install fzf btop cava neofetch npm htop tmux nala mc curl git zsh
 Cargo command
 
 ```bash
-cargo install bat exa lsd git-delta du-dust duf broot fd-find ripgrep bottom gping zoxide
+cargo install bat exa lsd git-delta du-dust fd-find ripgrep bottom gping zoxide
 ```
 
 ### My favorite theme for Midnight Commander is Dracula
