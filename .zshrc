@@ -114,7 +114,7 @@ export PATH="$HOME/.go/bin":$PATH
 # some more aliases
 alias l='lsd'
 alias ls='ls -CF'
-alias ll='exa --long --all --group --icons'
+alias ll='exa --long --all --group --icons --git'
 alias la='ls -A'
 alias grep='rg'
 alias find='fd'
