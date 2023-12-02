@@ -63,7 +63,7 @@ Optional for django:
 Golang path
 
 ```bash
-mkdir -p ~/.go/bin
+mkdir -p ~/.go/bin && mkdir ~/.go/lang
 ```
 
 Gopls:
