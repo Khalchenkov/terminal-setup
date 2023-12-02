@@ -113,6 +113,7 @@ export EDITOR="/usr/bin/nvim"
 export GOBIN="$HOME/.go/bin"
 export GOPATH="$HOME/.go/"
 export PATH="$HOME/.go/bin":$PATH
+export PATH="$HOME/.go/lang/bin":$PATH
 
 # some more aliases
 alias l='lsd'
