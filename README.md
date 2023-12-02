@@ -2,7 +2,7 @@
 
 Gnome Terminal Size: 120x34
 
-## Oh-my-zsh
+## Zsh
 
 [Oh-my-zsh site](https://ohmyz.sh/)
 
