@@ -88,6 +88,12 @@ Rust-analyzer:
 ### Web
 [Node.js site](https://nodejs.org/en) and [Bun site](https://bun.sh/)
 
+Installing node.js using [nvm](https://github.com/nvm-sh/nvm)
+
+```bash
+nvm install node
+```
+
 Web tools:
 - [Prettier](https://prettier.io/)
 - [Live-server](https://www.npmjs.com/package/live-server)
@@ -95,7 +101,7 @@ Web tools:
 Npm:
 
 ```bash
-sudo npm install -g live-server prettier
+npm install -g live-server prettier
 ```
 
 Bun:
