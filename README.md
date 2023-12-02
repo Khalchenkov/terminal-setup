@@ -29,7 +29,7 @@ git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZS
 ## Command
 
 ```bash
-apt install fzf btop cava neofetch npm htop tmux nala mc curl git zsh
+apt install fzf btop cava neofetch htop tmux nala mc curl git zsh
 ```
 
 Cargo command
