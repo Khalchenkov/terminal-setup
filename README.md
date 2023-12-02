@@ -66,6 +66,12 @@ Golang path
 mkdir -p ~/.go/bin && mkdir ~/.go/lang
 ```
 
+Put the contents of the `go/` folder from the downloaded archive on the site into the folder `~/.go/lang/`
+
+```bash
+tar -xzvf 'archive-path' -C ~/.go/lang/ --strip-components=1 go/
+```
+
 Gopls:
 - [Gopls](https://pkg.go.dev/golang.org/x/tools/gopls)
 
