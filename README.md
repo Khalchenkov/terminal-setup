@@ -26,6 +26,11 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete
 ```
 
+## Starship for Root shell
+[Starship](https://starship.rs/)
+
+Put `eval "$(starship init bash)"` into `/root/.bashrc`
+
 ## Command
 
 ```bash
