@@ -110,10 +110,10 @@ export PATH="$HOME/.local/bin":$PATH
 export EDITOR="nvim"
 
 # golang path
-export GOBIN="$HOME/.go/bin"
-export GOPATH="$HOME/.go/"
-export PATH="$HOME/.go/bin":$PATH
-export PATH="$HOME/.go/lang/bin":$PATH
+export GOPATH="$HOME/.go"
+export GOBIN="$GOPATH/bin"
+export PATH=$GOBIN:$PATH
+export PATH="$GOPATH/lang/go/bin":$PATH
 
 # some more aliases
 alias l='lsd'
