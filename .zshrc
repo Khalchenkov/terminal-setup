@@ -107,7 +107,7 @@ source $ZSH/oh-my-zsh.sh
 export PATH="$HOME/.local/bin":$PATH
 
 # editor
-export EDITOR="/usr/bin/nvim"
+export EDITOR="nvim"
 
 # golang path
 export GOBIN="$HOME/.go/bin"
