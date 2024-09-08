@@ -116,10 +116,11 @@ export PATH=$GOBIN:$PATH
 export PATH="$GOPATH/lang/go/bin":$PATH
 
 # some more aliases
-alias l='lsd'
+alias l='lsd --group-directories-first'
+alias ll='lsd -l -a --group-directories-first'
+alias la='lsd -a --group-directories-first'
+alias exa='exa --icons --long --git --all'
 alias ls='ls -CF'
-alias ll='exa --long --all --group --icons --git'
-alias la='ls -A'
 alias grep='rg'
 alias find='fd'
 alias du='dust'
