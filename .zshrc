@@ -113,7 +113,7 @@ export EDITOR="nvim"
 export GOPATH="$HOME/.go"
 export GOBIN="$GOPATH/bin"
 export PATH=$GOBIN:$PATH
-export PATH="$GOPATH/lang/go/bin":$PATH
+export PATH="$GOPATH/lang/bin":$PATH
 
 # some more aliases
 alias l='lsd --group-directories-first'
