@@ -142,6 +142,5 @@ neofetch
 export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS' --color=fg:#d0d0d0,hl:#9830ff --color=fg+:#d0d0d0,bg+:#1f0c29,hl+:#ff21a2 --color=info:#f1ae6d,prompt:#9830ff,pointer:#00b7ff --color=marker:#ff21a2,spinner:#f1ae6d,header:#6375a9'
 
 # zoxide
-eval "$(zoxide init zsh)"
-alias cd='z'
+eval "$(zoxide init zsh --cmd cd)"
 
