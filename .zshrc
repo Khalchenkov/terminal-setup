@@ -11,7 +11,7 @@ export ZSH="$HOME/.oh-my-zsh"
 #ZSH_THEME="robbyrussell"
 
 # Random themes
-ZSH_THEME_RANDOM_CANDIDATES=( cloud robbyrussell )
+ZSH_THEME_RANDOM_CANDIDATES=( cloud )
 ZSH_THEME="random"
 
 # Set list of themes to pick from when loading at random
